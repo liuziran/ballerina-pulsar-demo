@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.ballerinalang:ballerina-config:1.1.0-alpha">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/ballerinalang/ballerina-config/1.1.0-alpha/ballerina-config-1.1.0-alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/ballerinalang/ballerina-config/1.1.0-alpha/ballerina-config-1.1.0-alpha-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/ballerinalang/ballerina-config/1.1.0-alpha/ballerina-config-1.1.0-alpha-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

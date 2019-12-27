@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="BALLERINA_REPOSITORY &lt;BallerinaTest&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.ballerina/balo_cache/ballerinax" />
+      <root url="file://$USER_HOME$/.ballerina/balo_cache/stephen" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/.ballerina/balo_cache/ballerinax" />
+      <root url="file://$USER_HOME$/.ballerina/balo_cache/stephen" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$/java" />
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
