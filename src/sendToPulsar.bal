@@ -10,10 +10,11 @@ public function main() {
 pulsar:Producer producer = new(serviceUrl,topicName);
 
     io:println("Hello, Start!");
-    var msg = "Hi Stephen!";
+    string message = io:readln("Message : ");
+    io:println("message->"+message);
     error? a = producer->newProducer(serviceUrl,topicName);
     io:println("Hello, new producer!");
-    error? ret = producer->send(msg);
+    error? ret = producer->send(message);
 
     io:println("Hello, send!");
     io:println("Hello, END!");
